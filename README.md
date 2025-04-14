@@ -1,6 +1,5 @@
 # About me 
-I am a photographer, technology, programming, and CAD modelling as hobbies. 
-I also enjoy working with low-poly 3D art, pixel art, and web development. 
-Always learning, always tinkering, always stowing projects.
+I do photography, programming, designing, CAD modelling, low-poly 3D art and pixel art as hobbies. 
+I also involved in some web related stuff
 
-the the F Drive is clost to full...
+Always learning, always tinkering, always stowing projects. the F Drive is close to full...
